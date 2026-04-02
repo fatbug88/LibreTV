@@ -25,13 +25,12 @@ const API_SITES = {
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
-        adult: true
-    }
-    ffzy: {
+        adult: true,
         api: 'http://api.ffzyapi.com/api.php/provide/vod',
         name: '非凡综合资源',
-        adult: true
+        adult: true,      
     }
+  
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
 
