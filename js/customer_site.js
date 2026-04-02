@@ -2,8 +2,6 @@ const CUSTOMER_SITES = {
     qiqi: {
         api: 'https://www.qiqidys.com/api.php/provide/vod',
         name: '七七资源',
-        api: 'http://api.ffzyapi.com/api.php/provide/vod',
-        name: '非凡综合资源',
     }
 };
 
