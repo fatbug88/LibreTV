@@ -22,11 +22,11 @@ const SITE_CONFIG = {
 
 // API站点配置
 const API_SITES = {
-       testSource: {
-        api: 'https://www.example.com/api.php/provide/vod',
-        name: '空内容测试源',
-        adult: true,
-    }
+//       testSource: {
+//        api: 'https://www.example.com/api.php/provide/vod',
+//        name: '空内容测试源',
+//        adult: true,
+//    }
 dyttzy: {
 
     api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
@@ -196,19 +196,12 @@ dyttzy: {
   },
 
   ikun: {
-
     api: 'https://ikunzyapi.com/api.php/provide/vod',
-
     name: 'iKun资源'
-
   },
-
   lzi: {
-
     api: 'https://cj.lziapi.com/api.php/provide/vod/',
-
     name: '量子资源站'
-
   },  
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
