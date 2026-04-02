@@ -27,6 +27,11 @@ const API_SITES = {
         name: '空内容测试源',
         adult: true
     }
+    ffzy: {
+        api: 'http://api.ffzyapi.com/api.php/provide/vod',
+        name: '非凡综合资源',
+        adult: true
+    }
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
 
